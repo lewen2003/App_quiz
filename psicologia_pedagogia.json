@@ -1,0 +1,850 @@
+[
+  {
+    "domanda": "Qual è il livello raggiunto in adolescenza per lo sviluppo MORALE secondo Kohlberg?",
+    "opzioni": [
+      "Livello preconvenzionale",
+      "Livello postconvenzionale",
+      "Livello convenzionale",
+      "Livello sensomotorio"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Secondo Erikson, qual è la crisi normativa tipica dell’adolescenza?",
+    "opzioni": [
+      "Fiducia vs sfiducia",
+      "Identità vs confusione d’identità",
+      "Iniziativa vs senso di colpa",
+      "Intimità vs isolamento"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "La teoria di Piaget propone:",
+    "opzioni": [
+      "l'individuo è plasmato passivamente dall'ambiente",
+      "lo sviluppo procede solo per imitazione sociale",
+      "l’individuo è attivo costruttore dele proprie conoscenze",
+      "il bambino è una tabula rasa alla nascita"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Lo “scatto di crescita” si riferisce allo sviluppo:",
+    "opzioni": [
+      "fisico",
+      "cognitivo",
+      "morale",
+      "sociale"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Lo sviluppo derivante dai processi di crescita piuttosto che da apprendimento, incidenti, o malattie si chiama:",
+    "opzioni": [
+      "adattamento",
+      "assimilazione",
+      "maturazione",
+      "socializzazione"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Con il temine “teratogeno” si intende:",
+    "opzioni": [
+      "uno stadio specifico dello sviluppo embrionale",
+      "tutto ciò che può recare danno allo sviluppo",
+      "un enzima necessario per la crescita fetale",
+      "un fattore genetico protettivo"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Cosa permette di valutare il compito della falsa credenza (Sally e Anna)?",
+    "opzioni": [
+      "Lo sviluppo morale",
+      "L'attaccamento insicuro",
+      "La teoria della mente",
+      "L'intelligenza fluida"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Secondo la Teoria della differenziazione emotiva, quale dei seguenti sistemi si sviluppa dopo il terzo mese di vita?",
+    "opzioni": [
+      "Sistema piacere-gioia",
+      "Sistema paura-terrore",
+      "Sistema rabbia-frustrazione",
+      "Sistema disgusto-repulsione"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "A che età si sviluppa il fenomeno legato alla comprensione delle emozioni che si riferisce alle regole di ostentazione?",
+    "opzioni": [
+      "2 anni",
+      "5 anni",
+      "10 anni",
+      "15 anni"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Secondo la teoria differenziale delle emozioni, quale reazione si sviluppa tra i 3 e i 19 mesi?",
+    "opzioni": [
+      "Reazione puramente fisiologica",
+      "Reazione percettivo-affettiva",
+      "Reazione senso-motoria",
+      "Reazione cognitivo-complessa"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Secondo la teoria dell’attaccamento, quest’ultimo è definito come:",
+    "opzioni": [
+      "Un legame affettivo intimo e costante",
+      "Una ricerca di vicinanza e sicurezza",
+      "Un bisogno primario radicato biologicamente",
+      "tutte le precedenti sono corrette"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Secondo Bowlby il legame di attaccamento porta alla creazione di:",
+    "opzioni": [
+      "Schemi di assimilazione e accomodamento",
+      "Modelli operativi interni",
+      "Complessi psico-sessuali",
+      "Riflessi incondizionati"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Quale delle seguenti NON è un metodo di valutazione dell’attacamento?",
+    "opzioni": [
+      "Strange Situation",
+      "Separation Anxiety Test (SAT)",
+      "DSM-5-TR",
+      "Adult Attachment Interview (AAI)"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Cosa si intende per disformofobia?",
+    "opzioni": [
+      "Preoccupazioni immotivate riguardo la presenza di difetti fisici",
+      "La paura cronica degli spazi aperti e affollati",
+      "Un disturbo alimentare legato al rifiuto del cibo",
+      "La fobia di interagire con il gruppo dei pari"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Cosa si intende per “genitore relazionato”?",
+    "opzioni": [
+      "È uno stile personale in cui il genitore capisce il punto di vista del figlio, favorendo la sua autonomia",
+      "È un genitore che impone regole rigide senza fornire spiegazioni",
+      "È un genitore distaccato che lascia il figlio completamente solo nelle scelte",
+      "È un genitore iperprotettivo che si sostituisce al figlio nelle difficoltà"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "L'appartenenza al gruppo dei pari nasce da?",
+    "opzioni": [
+      "Bisogno di isolamento",
+      "Bisogno di competere",
+      "Bisogno di affiliazione",
+      "Bisogno di dipendenza genitoriale"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "La tipologia di attaccamento insicuro-evitante descrive una madre:",
+    "opzioni": [
+      "Imprevedibile nelle risposte e asfissiante",
+      "Sensibile e pronta a rispondere ai bisogni",
+      "Insensibile ai segnali del bambino, rifiutante nel contatto fisico",
+      "Iperprotettiva ma emotivamente disponibile"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Secondo Bruner, chi riveste il ruolo di scaffolding?",
+    "opzioni": [
+      "Il gruppo dei pari",
+      "L’adulto che si prende cura",
+      "L'insegnante solo in ambito scolastico",
+      "Il bambino stesso tramite prove ed errori"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Gli ormoni alla base dello sviluppo sono sotto controllo:",
+    "opzioni": [
+      "dell'amigdala",
+      "dell’ipotalamo",
+      "della corteccia prefrontale",
+      "del cervelletto"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Qual è fra i 5 sensi quello che si sviluppa prima?",
+    "opzioni": [
+      "Vista",
+      "Olfatto",
+      "Udito",
+      "Tatto"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Il progresso più evidente nella crescita è:",
+    "opzioni": [
+      "lo sviluppo morale",
+      "lo sviluppo dell'identità",
+      "lo sviluppo del linguaggio",
+      "lo sviluppo motorio"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Il fatto che i genitori plasmano l’ambiente in cui si sviluppa il bambino si chiama:",
+    "opzioni": [
+      "correlazione attiva geni-ambiente",
+      "correlazione passiva geni-ambiente",
+      "correlazione evocativa geni-ambiente",
+      "influenza epigenetica diretta"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "L'LTP (potenziamento a lungo termine) è un meccanismo alla base:",
+    "opzioni": [
+      "della genetica",
+      "dell'ereditarietà",
+      "della plasticità",
+      "dei riflessi primitivi"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Un cariotipo che presenta il cromosoma “XXY”:",
+    "opzioni": [
+      "è un cariotipo femminile standard",
+      "è un cariotipo maschile standard",
+      "è un cariotipo che presenta un’anomalia cromosomica",
+      "è una mutazione incompatibile con la vita"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Quale delle seguenti sindromi fu sfruttata in passato per confondere il sesso degli atleti alle Olimpiadi?",
+    "opzioni": [
+      "Sindrome di Turner",
+      "Sindrome di Down",
+      "Klinefelter",
+      "Sindrome di Asperger"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Quale dei seguenti è considerato un vantaggio dei disegni di ricerca longitudinali?",
+    "opzioni": [
+      "è molto rapido ed economico da realizzare",
+      "consente di seguire lo sviluppo individuale nel tempo",
+      "elimina totalmente il rischio di abbandono del campione",
+      "permette di confrontare immediatamente diverse fasce d'età"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Secondo l’approccio organismico:",
+    "opzioni": [
+      "l'individuo è una tabula rasa plasmata dall'ambiente",
+      "lo sviluppo è concepito come un processo puramente quantitativo",
+      "l’individuo è attivo e si auto-organizza",
+      "l'apprendimento avviene solo tramite rinforzi e punizioni"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Chi parla di zona dello sviluppo prossimale?",
+    "opzioni": [
+      "Vygotskij",
+      "Piaget",
+      "Bruner",
+      "Freud"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Cosa si intende, secondo l’approccio ecologico di Bronfenbrenner, per “macrosistema”?",
+    "opzioni": [
+      "Le relazioni dirette che il bambino vive in famiglia",
+      "I legami tra i diversi microsistemi",
+      "L'ambiente di lavoro dei genitori",
+      "È il sistema che comprende la politica sociale e dei servizi"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Lo studio in laboratorio strutturato è caratterizzato:",
+    "opzioni": [
+      "ambiente naturale e tipo di studio strutturato",
+      "ambiente artificiale e tipo di studio strutturato",
+      "ambiente naturale e tipo di studio non strutturato",
+      "ambiente artificiale e tipo di studio non strutturato"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Chi di questi è stato il massimo studioso dell’Imprinting?",
+    "opzioni": [
+      "Skinner",
+      "Piaget",
+      "Vygotskij",
+      "Konrad Lorenz"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Secondo Bruner, il pensiero narrativo:",
+    "opzioni": [
+      "è identico al pensiero logico-scientifico",
+      "è una forma diversa dal pensiero razionale",
+      "si sviluppa esclusivamente nell'età adulta",
+      "non ha alcuna validità nello sviluppo cognitivo"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Lo sviluppo della Teoria della mente permette di:",
+    "opzioni": [
+      "risolvere complessi problemi matematici",
+      "comprendere come l’individuo comprende sé stesso e gli altri",
+      "sviluppare esclusivamente la coordinazione motoria fine",
+      "memorizzare informazioni in modo meccanico"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "La Topobiologia:",
+    "opzioni": [
+      "sottolinea l’importanza degli ambienti biochimici (i luoghi) in cui avvengono i processi di sviluppo",
+      "studia la distribuzione geografica delle popolazioni umane",
+      "si occupa dell'influenza del clima sul comportamento",
+      "analizza solo i tratti genetici ereditari indipendenti dall'ambiente"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "L’anossia alla nascita potrebbe essere causata da:",
+    "opzioni": [
+      "Compressione del cordone ombelicale",
+      "Distacco prematuro della placenta",
+      "Mancata espansione dei polmoni",
+      "tutte le presenti"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Migrazione e crescita neuriti durante lo sviluppo sono guidati in particolare da:",
+    "opzioni": [
+      "Ormoni tiroidei e insulina",
+      "Neurotrasmettitori e sinapsi",
+      "CAM e cellule gliali radiali",
+      "Globuli rossi e piastrine"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Il fatto che il bambino si sceglie il tipo di ambiente che preferisce, si chiama:",
+    "opzioni": [
+      "correlazione passiva geni-ambiente",
+      "correlazione evocativa geni-ambiente",
+      "correlazione attiva geni-ambiente",
+      "determinismo ambientale"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Quale dei seguenti è un metodo di studio della percezione nella prima infanzia?",
+    "opzioni": [
+      "Colloquio clinico",
+      "Test di intelligenza WISC",
+      "Metodo della preferenza",
+      "Adult Attachment Interview"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Quale dei seguenti non è un riflesso primitivo?",
+    "opzioni": [
+      "Rooting",
+      "Grasping",
+      "Moro",
+      "Babinski"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Secondo l’approccio comportamentistico l’individuo:",
+    "opzioni": [
+      "è attivo e si auto-organizza",
+      "è docile e plasmabile",
+      "possiede strutture cognitive innate",
+      "si sviluppa per stadi universali"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Quale dei seguenti è considerato uno svantaggio dei disegni sperimentali (esperimento)?",
+    "opzioni": [
+      "Non permettono di stabilire relazioni di causa ed effetto",
+      "I partecipanti osservati nell’esperimento potrebbero comportarsi diversamente rispetto alla vita reale",
+      "Richiedono tempi di realizzazione di svariati anni",
+      "Non consentono di utilizzare variabili indipendenti"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Lo studio sul campo non strutturato è caratterizzato da:",
+    "opzioni": [
+      "ambiente artificiale e tipo di studio strutturato",
+      "ambiente naturale e tipo di studio strutturato",
+      "ambiente artificiale e tipo di studio non strutturato",
+      "ambiente naturale e tipo di studio non strutturato"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Secondo Piaget, gli stadi di sviluppo prevedono:",
+    "opzioni": [
+      "Integrazione gerarchica tra gli stadi",
+      "Ordine invariante universale",
+      "Cambiamenti qualitativi nel pensiero",
+      "tutte l eseguenti sono corrette"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "Lo stadio operativo concreto fa riferimento a:",
+    "opzioni": [
+      "la capacità di ragionare in modo ipotetico-deduttivo",
+      "l'intelligenza legata esclusivamente a schemi senso-motori",
+      "la capacità dell’individuo di trasformare le azioni mentali isolate in operazioni concrete",
+      "un pensiero caratterizzato da forte egocentrismo e animismo"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Qual è la corretta definizione di sviluppo prossimale?",
+    "opzioni": [
+      "Distananza tra l'età cronologica e l'età mentale del bambino",
+      "Distanza tra il livello di sviluppo effettivo e il livello di sviluppo potenziale",
+      "Distanza temporale tra lo stadio pre-operatorio e quello operatorio",
+      "Distanza emotiva tra la figura di attaccamento e il bambino"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Quale dei seguenti non è un precursore delle emozioni?",
+    "opzioni": [
+      "Sorriso endogeno",
+      "Trasalisalimento",
+      "Cultura",
+      "Pianto reattivo"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Quale dei seguenti è un metodo di valutazione dell’attaccamento?",
+    "opzioni": [
+      "Compito della falsa credenza",
+      "Strange Situation",
+      "Paradigma dell'abituazione",
+      "Test sociometrico"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Spesso gli adolescenti sono caratterizzati da uno stato di ipocondria che definisce:",
+    "opzioni": [
+      "la paura ossessiva di essere esclusi dal gruppo dei pari",
+      "la fobia per l'autorità genitoriale e scolastica",
+      "la paura dell’adolescente di contrarre malattie",
+      "l'ansia da prestazione scolastica"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Cosa si intende per “idea di sé cercata”?",
+    "opzioni": [
+      "È l'immagine che i genitori impongono all'adolescente",
+      "È la ricerca attiva di esperienze e situazioni in cui l’adolescente si mette alla prova",
+      "È lo specchio passivo dei giudizi espressi dagli insegnanti",
+      "È l'identità che si sviluppa senza alcun conflitto esplorativo"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Quale tra i seguenti NON è uno stato di identità secondo Marcia?",
+    "opzioni": [
+      "Identità realizzata",
+      "Moratoria",
+      "Blocco dell'identità",
+      "Fatica identitaria"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "A che età si sviluppa il fenomeno legato alla differenziazione realtà-finzione?",
+    "opzioni": [
+      "6 mesi",
+      "2 anni",
+      "5 anni",
+      "8 anni"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Chi definì la Teoria dell’attaccamento?",
+    "opzioni": [
+      "Piaget",
+      "Bowlby",
+      "Skinner",
+      "Freud"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Secondo la teoria differenziale delle emozioni, quale reazione si sviluppa dopo i 2-4 mesi?",
+    "opzioni": [
+      "Reazione puramente fisiologica",
+      "Reazione senso-motoria",
+      "Reazione affettiva complessa",
+      "Reazione cognitivo-affettiva"
+    ],
+    "risposta_corretta": 3
+  },
+  {
+    "domanda": "La tipologia di attaccamento insicuro ansioso ambivalente descrive una madre:",
+    "opzioni": [
+      "sempre sensibile e responsiva ai bisogni",
+      "rifiutante al contatto e insensibile ai richiami",
+      "imprevedibile nelle risposte, dettate più dai suoi bisogni che da quelli del bambino/a",
+      "che incoraggia attivamente l'esplorazione distaccata"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Il sincretismo infantile indica:",
+    "opzioni": [
+      "una difficoltà del bambino nell’analisi della scena percettiva",
+      "un'eccezionale capacità di ragionamento deduttivo precoce",
+      "la tendenza ad assimilare concetti astratti senza capirli",
+      "una fase di sviluppo morale avanzato"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Lo scatto di crescita avviene:",
+    "opzioni": [
+      "prima nei maschi e poi nelle femmine",
+      "contemporaneamente in entrambi i sessi",
+      "prima nelle femmine e poi nei maschi",
+      "solo in relazione alla pratica sportiva intensiva"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Nel football integrato in che modo vengono assegnati i ruoli di gioco?",
+    "opzioni": [
+      "In funzione della condizione diagnostica",
+      "Secondo il giudizio dell’arbitro",
+      "In funzione di un percorso di valutazione che si effettua prima della gara"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "La didattica è un’azione?",
+    "opzioni": [
+      "Di mediazione tra soggetti in apprendimento e oggetti di conoscenza",
+      "Di interazione tra soggetti in apprendimento nel rispetto delle norme sociali",
+      "Di trasmissione della cultura attraverso la comunicazione orale"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Uno sport speciale è:",
+    "opzioni": [
+      "Uno sport riservato solo a persone con minorazione visiva",
+      "Uno sport ufficiale reso idoneo a persone con disabilità",
+      "Uno sport creato appositamente per le persone con disabilità"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "L'apprendimento cooperativo è un modello di didattica:",
+    "opzioni": [
+      "Frontale",
+      "Verticale",
+      "orizzontale"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "L'articolo 24 della Convenzione Onu dei diritti delle persone con disabilità è dedicato al diritto:",
+    "opzioni": [
+      "Allo sport",
+      "All'istruzione",
+      "Al lavoro"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "I medici-educatori rappresentano una svolta per la Pedagogia speciale in quanto:",
+    "opzioni": [
+      "Favoriscono la nascita della cura dei soggetti con disturbi dell’apprendimento",
+      "Favoriscono il passaggio da un modello di cura medico ad un modello educativo",
+      "Favoriscono il bisogno della diagnosi"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Quali tra i seguenti principi NON appartiene all’Universal Design:",
+    "opzioni": [
+      "Estetica",
+      "Flessibilità",
+      "Tolleranza all’errore"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "La progettazione universale indica:",
+    "opzioni": [
+      "La progettazione (e realizzazione) di prodotti, ambienti, programmi e servizi utilizzabili da tutte le persone",
+      "Le modifiche e gli adattamenti necessari per garantire il godimento dei diritti umani e di libertà",
+      "L'individuazione e rimozione delle barriere di accesso agli ambienti, programmi, servizi e all’utilizzo dei prodotti"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "L'etimologia del termine Pedagogia ha inciso profondamente:",
+    "opzioni": [
+      "Sullo sviluppo della Pedagogia come scienza",
+      "Sullo sviluppo di un discorso critico sulla cura dei bambini",
+      "Sulla definizione di pratica educativa"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "L'apprendimento cooperativo introduce l’insegnamento diretto:",
+    "opzioni": [
+      "Delle abilità sociali",
+      "Delle abilità didattiche curriculari",
+      "Delle abilità senso-motorie"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "L'apprendimento cooperativo ha origine:",
+    "opzioni": [
+      "Negli anni Ottanta in Svezia",
+      "Negli anni Novanta in Italia",
+      "Negli anni Settanta negli Stati Uniti"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "La didattica si trova nell’intersezione tra:",
+    "opzioni": [
+      "Insegnamento, apprendimento e inclusione",
+      "Insegnamento, apprendimento e cultura",
+      "Insegnamento, cultura e inclusione"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "I processi mediatori avvengono a livello:",
+    "opzioni": [
+      "Pedagogico, didattico e educazionale",
+      "Psicologico, pedagogico e didattico",
+      "Psicologico, didattico e educazionale"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Nel football integrato è stato modificato il campo di futsal. In che modo?",
+    "opzioni": [
+      "Sono state introdotte delle barriere protettive",
+      "Sono state introdotte 2 porte sulla linea di centrocampo",
+      "Il campo è stato accorciato di 10m"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "L'accessibilità fisica e architettonica si riferisce a:",
+    "opzioni": [
+      "Unicamente i luoghi pubblici",
+      "Le abitazioni delle persone con disabilità",
+      "Tutti gli ambienti della vita della persona"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "L'educazione al suo Terzo livello è:",
+    "opzioni": [
+      "Una metodologia",
+      "Una pratica",
+      "Un concetto"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Secondo il modello sociale, la disabilità dipende da:",
+    "opzioni": [
+      "La mancanza di risorse",
+      "La patologia",
+      "Le barriere ambientali"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Alle sue origini lo sport per persone con disabilità ha finalità:",
+    "opzioni": [
+      "Agonistiche",
+      "Terapeutiche",
+      "Educative"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "I mediatori didattici servono a:",
+    "opzioni": [
+      "Rendere accessibile la cultura",
+      "Curare le relazioni educative",
+      "Organizzare le attività"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Secondo la Convenzione ONU sui diritti delle persone con disabilità, l’ACCESSIBILITA’ consente di:",
+    "opzioni": [
+      "Avere diritto ad un’assistenza economica",
+      "Vivere in modo indipendente e partecipare",
+      "Possedere un maggior numero di ausili tecnologici"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Secondo l’ICF, la disabilità dipende:",
+    "opzioni": [
+      "Dall'ambiente",
+      "Dalla relazione tra una persona con una condizione di salute e l’ambiente in cui vive",
+      "Dalla patologia"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "I mediatori simbolici:",
+    "opzioni": [
+      "Implicano il maggior grado di distanza dalla realtà",
+      "Fanno leva sull’esperienza diretta",
+      "Si esprimono attraverso i giochi di simulazione"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Lo sport è uno strumento educativo in quanto:",
+    "opzioni": [
+      "Contiene dei dispositivi utili alla crescita delle persone",
+      "Promuove esclusivamente valori morali",
+      "Promuove la salute"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Tra le scienze dell’educazione NON vi è:",
+    "opzioni": [
+      "Psicologia dell’educazione",
+      "Sociologia dell’educazione",
+      "Antropometria dell’educazione"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "Tra le caratteristiche della relazione educativa vi è:",
+    "opzioni": [
+      "Affettività",
+      "Singolarità",
+      "Simmetria"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Il concetto di “bisogno educativo speciale” viene promosso da un importante conferenza:",
+    "opzioni": [
+      "Ginevra",
+      "Berlino",
+      "Salamanca"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "La valutazione formativa tiene in considerazione:",
+    "opzioni": [
+      "Solo il processo di insegnamento",
+      "I risultati e i processi di insegnamento e apprendimento",
+      "Solo le verifiche degli apprendimenti"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "Secondo Parlebas quali dei seguenti elementi NON rappresenta un universale ludico:",
+    "opzioni": [
+      "Lo spazio di gioco",
+      "Il materiale utilizzato nel gioco",
+      "L'arbitro e il guardalinee"
+    ],
+    "risposta_corretta": 1
+  },
+  {
+    "domanda": "La mediazione educazionale riguarda:",
+    "opzioni": [
+      "La relazione educativa",
+      "La trasformazione dei saperi",
+      "Gli aspetti organizzativi"
+    ],
+    "risposta_corretta": 0
+  },
+  {
+    "domanda": "Il concetto di inclusione fa riferimento a una società fondata sul valore:",
+    "opzioni": [
+      "Della tolleranza",
+      "Della generatività",
+      "Della differenza"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "L'epidemiologia (Etimologia) del termine Pedagogia ha inciso profondamente:",
+    "opzioni": [
+      "Sullo sviluppo della Pedagogia come scienza",
+      "Sullo sviluppo di un discorso critico sulla sura dei bambini",
+      "Sulla definizione di pratica educativa"
+    ],
+    "risposta_corretta": 2
+  },
+  {
+    "domanda": "L'oggetto di studio della Pedagogia speciale è:",
+    "opzioni": [
+      "Disabilità",
+      "Diversità",
+      "Educazione"
+    ],
+    "risposta_corretta": 2
+  }
+]
